@@ -1,0 +1,6 @@
+Name of Quantlet: Code
+Published in:  Explainable AI-based early warning system for electricity price spikes: evidence from the Romanian market
+Description: This is the code for our paper
+Keywords: Code
+Author: Alexandru-Victor ANDREI, Daniel Traian PELE, Alexandru-Adrian CRAMER, Antoaneta AMZA, Delia DIACONU 
+Submitted: 25.02.2026
