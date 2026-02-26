@@ -1,0 +1,20 @@
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
+
+```
+Name of QuantLet: Explainable AI-based early warning system for electricity price spikes: evidence from the Romanian market
+
+Published in: Not yet published
+
+Description: Introducing an XAI-based early system framework for electricity price spikes
+
+Keywords: explainable artificial intelligence, electricity price forecasting, early warning system, load- generation balance, machine learning interpretability, Romanian energy market, price spike detection
+
+Author: Alexandru-Victor ANDREI, Daniel Traian PELE, Alexandru-Adrian CRAMER, Antoaneta AMZA, Delia DIACONU
+
+Submitted: 25.02.2026
+
+```
